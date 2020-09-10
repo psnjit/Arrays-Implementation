@@ -4,6 +4,9 @@ all contiguous elements but the array may contain duplicates*/
 //https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-2/
 
 //idea is to go like length of largest subarray which can be arranged like contiguous but use a hashset to make sure that duplicates are not there in the subarray
+
+// time- O(n2), space O(n)
+
 import java.util.*; 
 
 class Main 
