@@ -1,6 +1,7 @@
 //gfg- https://www.geeksforgeeks.org/length-largest-subarray-contiguous-elements-set-1/
 //Idea is if max-min is equal to length of subarray and contains no duplicates, then each number must be contiguous.
 //eg- 7 9 5 6 8 0 3, from 0 to 4, max(9)-min(5)=(4-0), max length is <j-i+1>(4-0+1) 
+// time- O(n2), space O(1)
 
 class LargestSubArray2 
 { 
