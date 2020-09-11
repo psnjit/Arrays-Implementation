@@ -8,4 +8,4 @@ O(n2) time, O(1)-space
 O(n2) time, O(n)-space
 
 3. 𝐥𝐚𝐫𝐠𝐞𝐬𝐭 𝐥𝐞𝐧𝐠𝐭𝐡 𝐨𝐟 𝐬𝐮𝐛𝐚𝐫𝐫𝐚𝐲 𝐜𝐨𝐧𝐭𝐢𝐠𝐮𝐨𝐮𝐬 𝐨𝐫 𝐬𝐚𝐦𝐞 𝐬𝐚𝐦𝐞 𝐰𝐢𝐭𝐡 𝐝𝐮𝐩𝐥𝐢𝐜𝐚𝐭𝐞𝐬.𝐣𝐚𝐯𝐚
-o(n2) time, O(n) space
+O(n2) time, O(n) space
